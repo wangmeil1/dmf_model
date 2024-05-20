@@ -2,7 +2,7 @@ This is a [PyTorch](https://pytorch.org/) implementation of Deep Multi-Model Fus
 ### Instructions
 - Make sure you have Python>=3.7 and pytorch>=2.0 installed. 
 
-- This project is quite resource-intensive;16 GB or larger GPU memory is recommended.
+- 16 GB or larger GPU memory is recommended.
 
 ### DATASET
 - Download the RESIDE dataset from (https://sites.google.com/site/boyilics/website-builder/reside).
