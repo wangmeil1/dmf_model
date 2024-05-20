@@ -1,4 +1,4 @@
-This is a [PyTorch](https://pytorch.org/) implementation of Deep Multi-Model Fusion for Single-Image Dehazing(https://ieeexplore.ieee.org/document/9009514) and its improved model.
+This is a [PyTorch](https://pytorch.org/) implementation of Deep Multi-Model Fusion for Single-Image Dehazing(https://ieeexplore.ieee.org/document/9009514) and its improved model modified from(https://github.com/zijundeng/DM2F-Net).
 ### Instructions
 - Make sure you have Python>=3.7 and pytorch>=2.0 installed. 
 
